@@ -1,0 +1,5 @@
+.App{display:flex; width:100%; height:auto; flex-direction: column;}
+.App .search-form .center{width:100%; height:auto; display:flex; justify-content: center; padding:10px 0; border-bottom:1px solid #4CBB17;}
+.App .search-form input{padding:5px 20px; border:1px solid #4CBB17; width:80%;background: #000;height: 40px;color: #fff;}
+.App .search-form input:focus{border:1px solid #4CBB17;}
+.App .search-form button{width:10%; background:#000; color:#4CBB17; border:0; margin-left:5px; border:1px solid #4CBB17}
