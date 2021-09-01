@@ -3,3 +3,4 @@ header .center{display:flex; justify-content: space-between; padding:10px 0; ali
 header .logo{color:#4CBB17}
 header .menu{width:30px; height:30px; border:1px solid #4CBB17; display:flex; align-items: center; justify-content: center;}
 header .menu i.fa{font-size:22px; color:#4CBB17}
+header a{color:#4CBB17}
