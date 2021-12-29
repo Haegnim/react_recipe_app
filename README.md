@@ -13,7 +13,7 @@ _API를 활용한 레시피 웹앱_
 
 ## 사이트
 
-[🖥 Go site](https://haegnim.github.io)<br>
+[🖥 Go site](https://haegnim.github.io/react_recipe_app/)<br>
 
 <br>
 <br>
